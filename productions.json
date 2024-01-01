@@ -1,0 +1,165 @@
+[
+  {
+    "id": "portfolio",
+    "title": "<span>&#128187;</span> Portfolio",
+    "description": "Mon portfolio à été entièrement développé et designé par moi sur Figma.<br><br>Le site est déployé sur un vps avec docker compose et un reverse proxy NGINX.<br><br>Grace au volumes partagés je peut facilement modifier le contenue du site en me connectant en ssh au vps sans à avoir à recompiler et redéployer le site.",
+    "tags": [ "VueJS", "Express", "SQLite", "Docker", "NGINX"],
+    "images": [
+      {
+        "id": "figma.webp",
+        "type": "IMG",
+        "description": "Maquette figma"
+      },
+      {
+        "id": "docker-compose.webp",
+        "type": "IMG",
+        "description": "Docker compose"
+      },
+      {
+        "id": "data.webp",
+        "type": "IMG",
+        "description": "Volumes partagés"
+      }
+    ]
+  },
+  {
+    "id": "ecommerce",
+    "title": "<span>&#128722;</span> Prototype d'e-commerce",
+    "description": "Surement le projet le plus ambitieux que j'ai réalisé, il s'agit d'un prototype d'e-commerce développé en VUE JS et Express.<br><br>Il comprend un système de gestion des produits, utilisateurs, avis, catégories, et de paramètres.<br><br>Le design a été réalisé avec Figma.",
+    "tags": [ "VueJS", "Express", "MySQL", "Figma" ],
+    "images": [
+      {
+        "id": "homepage.webp",
+        "type": "IMG",
+        "description": "Page d'accueille"
+      },
+      {
+        "id": "product.webm",
+        "type": "VIDEO",
+        "description": "Page de produit"
+      },
+      {
+        "id": "login.webm",
+        "type": "VIDEO",
+        "description": "Page de connexion"
+      },
+      {
+        "id": "settings.webp",
+        "type": "IMG",
+        "description": "Page des paramètres"
+      },
+      {
+        "id": "lightroom.webp",
+        "type": "IMG",
+        "description": "Audit lightroom"
+      },
+      {
+        "id": "effect.webm",
+        "type": "VIDEO",
+        "description": "Hover effect des produits"
+      }
+    ]
+  },
+  {
+    "id": "movies",
+    "title": "<span>&#127916;</span> CC - Movies",
+    "description": "Movies est une application électron js privée permettant de visionner plus de 175 films.<br><br>J'ai fait ce projet avec un groupe de développeurs étant donné qu'il comprend un système de gestion des films via une api ou un bot discord ainsi que d'autres fonctionnalités.",
+    "tags": [ "Electron", "Discord.js", "MySQL" ],
+    "images": [
+      {
+        "id": "exemple.webm",
+        "type": "VIDEO",
+        "description": "Exemple d'utilisation"
+      },
+      {
+        "id": "repositories.webp",
+        "type": "IMG",
+        "description": "Dépôts GitHub du groupe"
+      },
+      {
+        "id": "released.webp",
+        "type": "IMG",
+        "description": "Les différentes solutions de déploiement"
+      }
+    ]
+  },
+  {
+    "id": "pronoteXinstagram",
+    "title": "<span>&#129302;</span> Pronote X Instagram",
+    "description": "Pronote X Instagram est un bot permettant de récupérer les notes et les modifications d'emploi du temps de pronote et de les envoyer sur instagram.<br><br>Il est développé en node js et utilise des api non officielles de pronote et instagram.",
+    "tags": [ "NodeJS", "MySQL", "API" ],
+    "images": [
+      {
+        "id": "hello.webp",
+        "type": "IMG",
+        "description": "Message de bienvenue"
+      },
+      {
+        "id": "cmd.webp",
+        "type": "IMG",
+        "description": "Commandes et alertes"
+      },
+      {
+        "id": "tutorial.webp",
+        "type": "IMG",
+        "description": "Tutoriel"
+      }
+    ]
+  },
+  {
+    "id": "ambilight",
+    "title": "<span>&#128161;</span> Ambilight DIY",
+    "description": "A l'aide de tutoriel et de recherches personnelles j'ai conçu un Ambilight avec une arduino nano.<br><br>Il est développé en c++ sur la base de différents scripts et utilise les serial ports pour communiquer avec le logiciel Prismatik.",
+    "tags": [ "C++", "Arduino" ],
+    "images": [
+      {
+        "id": "arduino.webp",
+        "type": "IMG",
+        "description": "Montage finis"
+      },
+      {
+        "id": "exemple.webm",
+        "type": "VIDEO",
+        "description": "Exemple d'utilisation"
+      },
+      {
+        "id": "screen.webp",
+        "type": "IMG",
+        "description": "Arrière de l'écran"
+      },
+      {
+        "id": "model.webp",
+        "type": "IMG",
+        "description": "Modèle"
+      },
+      {
+        "id": "prismatik.webp",
+        "type": "IMG",
+        "description": "Application"
+      }
+    ]
+  },
+  {
+    "id": "WebP-Converter",
+    "title": "<span>&#128248;</span> WebP Converter",
+    "description": "Le convertisseur WebP est un petit script personnel très simple en node js.<br><br>Cela peut remplacer n'importe quelle image en la convertissant au format WebP le tout en quelques millisecondes, vous pouvez aussi ajuster la qualité de la conversion !",
+    "tags": [ "NodeJS", "Image" ],
+    "images": [
+      {
+        "id": "exemple.webp",
+        "type": "IMG",
+        "description": "Exemple d'utilisation"
+      },
+      {
+        "id": "source-code.webp",
+        "type": "IMG",
+        "description": "Code source"
+      },
+      {
+        "id": "repository.webp",
+        "type": "IMG",
+        "description": "Dépôt GitHub"
+      }
+    ]
+  }
+]

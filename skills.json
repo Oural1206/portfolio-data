@@ -1,0 +1,287 @@
+[
+  {
+    "date": "2019",
+    "content": [
+      {
+        "title": "Language",
+        "icons": [
+          {
+            "name": "Python",
+            "url": "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue",
+            "description": "Python a été le premier langage de programmation par texte que j’ai commencé début 5ème.<br>Avec celui-ci j’ai fait des programmes simples communicants par la console mais j’ai aussi manipulé la library pygame"
+          }
+        ]
+      },
+      {
+        "title": "IDE",
+        "icons": [
+          {
+            "name": "Pycharm",
+            "url": "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white",
+            "description": "Pycharm est un IDE pour python, je l’ai utilisé pour mes premiers programmes en python"
+          },
+          {
+            "name": "Replit",
+            "url": "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white",
+            "description": "Replit est un IDE en ligne, je l’ai utilisé pour pouvoir faire des programmes en python sur mon iPad à mes heures perdes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2020",
+    "content": [
+      {
+        "title": "Language",
+        "icons": [
+          {
+            "name": "LUA",
+            "url": "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white",
+            "description": "Lua est un langage de programmation conçu pour être intégré et étendre d'autres applications. J’ai commencé à l’utiliser pour faire des scripts sur Roblox Studio"
+          }
+        ]
+      },
+      {
+        "title": "IDE",
+        "icons": [
+          {
+            "name": "VSCode",
+            "url": "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white",
+            "description": "VSCode est un IDE multi-langage que tous les développeurs connaissent, je l’ai utilisé pour divers projets"
+          }
+        ]
+      },
+      {
+        "title": "Terminal",
+        "icons": [
+          {
+            "name": "GIT",
+            "url": "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white",
+            "description": "Git est un logiciel de gestion de versions, c'est une compétences fondamentale pour tout développeur"
+          }
+        ]
+      },
+      {
+        "title": "Virtualization",
+        "icons": [
+          {
+            "name": "VirtualBox",
+            "url": "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white",
+            "description": "VirtualBox est un logiciel de virtualisation permettant de faire tourner un système d'exploitation dans un autre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021",
+    "content": [
+      {
+        "title": "Languages",
+        "icons": [
+          {
+            "name": "HTML 5",
+            "url": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white",
+            "description": "HTML est un langage permettant de structurer des pages web"
+          },
+          {
+            "name": "CSS 3",
+            "url": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white",
+            "description": "CSS est un langage permettant de styliser des pages web"
+          },
+          {
+            "name": "JS",
+            "url": "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E",
+            "description": "JavaScript est un langage de programmation permettant de rendre les pages web dynamiques"
+          },
+          {
+            "name": "Markdown",
+            "url": "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white",
+            "description": "Markdown est un langage de balisage léger, je l'utilise pour écrire toutes sortes de choses, notamment mes cours"
+          }
+        ]
+      },
+      {
+        "title": "OS",
+        "icons": [
+          {
+            "name": "Linux",
+            "url": "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black",
+            "description": "Linux est un système d'exploitation. A l'aide de virtual box j'ai pu expérimenter la distribution Ubuntu sur laquelle je suis actuellement en train d'écrire ce texte"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022",
+    "content": [
+      {
+        "title": "Languages",
+        "icons": [
+          {
+            "name": "Swift",
+            "url": "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white",
+            "description": "Swift est un langage permettant de développer des applications pour les appareils Apple. Je l'ai utilisé lors de mon stage de 3ème chez Snapp' et j'ai continué de l'approfondir depuis"
+          },
+          {
+            "name": "PHP",
+            "url": "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white",
+            "description": "PHP est un langage de programmation pour les pages web dynamiques. Je l'ai utilisé pour faire mes premiers sites web interactifs accompagné des bases de données MySQL"
+          },
+          {
+            "name": "NodeJs",
+            "url": "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white",
+            "description": "Node.js permet de faire des scripts en JavaScript côté serveur. Je l'ai utilisé pour faire des bots discord, des scripts utilitaires mais aussi des api pour mes sites web"
+          },
+          {
+            "name": "TypeScript",
+            "url": "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white",
+            "description": "TypeScript est une surcouche qui a pour but d'améliorer et de sécuriser la production de code JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Frameworks & Library",
+        "icons": [
+          {
+            "name": "VueJs",
+            "url": "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08",
+            "description": "Vue.js est un framework web, je l'ai utilisé pour faire des sites web plus expérimentés et plus organisés que ceux que je faisais avec PHP"
+          },
+          {
+            "name": "Express",
+            "url": "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white",
+            "description": "Express.js est un framework fonctionnant avec NodeJs, je l'ai utilisé pour faire les api de mes sites Vue.js"
+          },
+          {
+            "name": "SASS",
+            "url": "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white",
+            "description": "Sass est une extension de CSS, je l'ai utilisé pour faire mes sites Vue.js avec de meilleurs aspects visuels"
+          }
+        ]
+      },
+      {
+        "title": "IDE",
+        "icons": [
+          {
+            "name": "Xcode",
+            "url": "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white",
+            "description": "Xcode est un IDE développé par Apple. Je l'ai utilisé pour faire mes applications iOS avec Swift"
+          },
+          {
+            "name": "PHPStorm",
+            "url": "https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white",
+            "description": "PHPStorm est un IDE que j'ai utilisé pour faire mes sites avec Vue.js et PHP"
+          },
+          {
+            "name": "InteliJIDEA",
+            "url": "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white",
+            "description": "IntelliJ IDEA est un IDE que j'ai utilisé pour mes projets NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Database",
+        "icons": [
+          {
+            "name": "MySql",
+            "url": "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white",
+            "description": "MySQL est une base de données, je l'ai utilisée pour faire mes sites web dynamiques"
+          }
+        ]
+      },
+      {
+        "title": "Linters",
+        "icons": [
+          {
+            "name": "EsLint",
+            "url": "https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white",
+            "description": "ESLint est un outil d'analyse de code qui permet d'avoir une meilleure syntaxe et qualité de code"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023",
+    "content": [
+      {
+        "title": "Languages",
+        "icons": [
+          {
+            "name": "CPP",
+            "url": "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white",
+            "description": "C++ est un langage de programmation proche de celui qu'utilise un ordinateur. Je l'ai utilisé pour faire des jeux vidéos avec Unreal Engine et des scripts console"
+          }
+        ]
+      },
+      {
+        "title": "Frameworks & Library",
+        "icons": [
+          {
+            "name": "Unreal Engine",
+            "url": "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white",
+            "description": "Unreal Engine est un moteur de jeux, je l'ai expérimenté sans vraiment faire de projet concret"
+          },
+          {
+            "name": "SocketIo",
+            "url": "https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white",
+            "description": "Socket.IO est une bibliothèque JavaScript qui m'a permis de faire des projets tel qu'un chat anonyme"
+          },
+          {
+            "name": "Electron",
+            "url": "https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9",
+            "description": "Electron est un framework permettant de faire des applications de bureau avec des technologies web. Je l'ai utilisé pour faire une application de streaming"
+          },
+          {
+            "name": "Docker",
+            "url": "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white",
+            "description": "Docker est un framework pour containeriser des applications, je l'ai utilisé pour déployer ce site sur mon vps et d'autres projets"
+          }
+        ]
+      },
+      {
+        "title": "IDE",
+        "icons": [
+          {
+            "name": "ArduinoIDE",
+            "url": "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white",
+            "description": "Arduino IDE permet de programmer des cartes Arduino, je l'ai utilisé pour faire mes projets avec des cartes Arduino"
+          },
+          {
+            "name": "Rider",
+            "url": "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white",
+            "description": "Rider est l'IDE que j'ai utilisé pour mes projects en C++ avec Unreal Engine"
+          },
+          {
+            "name": "CLion",
+            "url": "https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white",
+            "description": "CLion est un IDE que j'ai utilisé pour programmer des microcontrôleurs"
+          },
+          {
+            "name": "AndroidStudio",
+            "url": "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white",
+            "description": "Android Studio permet de deployer des applications android. Je ne l'ai pas utilisé pour ça, mais plutôt pour faire des automatisations via ADB"
+          }
+        ]
+      },
+      {
+        "title": "Prototyping Platforms",
+        "icons": [
+          {
+            "name": "Arduino",
+            "url": "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white",
+            "description": "Arduino est une plateforme de prototypage électronique avec laquelle j'ai réalisé divers projets et qui m'a permis d'en apprendre plus sur l'électronique"
+          },
+          {
+            "name": "MicroBit",
+            "url": "https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white",
+            "description": "Micro:bit est une plateforme de prototypage électronique ressemblant à Arduino mais fonctionnant principalement avec python"
+          }
+        ]
+      }
+    ]
+  }
+]
